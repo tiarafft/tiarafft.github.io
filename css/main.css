@@ -227,6 +227,7 @@ div.panel {
 }
 
 .img-small {
+  float: left;
   max-height: 50px;
   margin: 8px 10px;
 }
