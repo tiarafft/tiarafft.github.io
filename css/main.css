@@ -226,7 +226,7 @@ div.panel {
   font-size: 13px;
 }
 
-.img-small {
+img.img-small {
   float: left;
   max-height: 50px;
   margin: 8px 10px;
